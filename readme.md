@@ -6,13 +6,13 @@
 https://flower-six-drab.vercel.app/
 
 ---
-This is a creative front-end project that showcases a beautifully styled flower made entirely with **HTML** and **CSS**—
+This is a creative front-end project that showcases a beautifully styled flower made entirely with **HTML** - **CSS** -**JS** 
 
 ---
 
 ## 🔧 Technologies Used
 
-- **HTML & CSS**  
+- **HTML & CSS & JS**  
   The flower, leaves, and background are all crafted using basic HTML elements and styled meticulously with CSS. No external libraries or JavaScript are used.
 
 ---
